@@ -57,7 +57,7 @@ This project focuses on:
 ## Project Demonstration
 
 ### Robot Prototype
-![Robot Prototype](./docs/robot_photo.png)
+![Robot Prototype](docs/robot_photo.png)
 
 ### Block Diagram
 ![Block Diagram](docs/block_diagram.png)
